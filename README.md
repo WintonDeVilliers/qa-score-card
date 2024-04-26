@@ -1,4 +1,4 @@
-![Screenshot 2024-04-26 at 06 46 15](https://github.com/WintonDeVilliers/qa-score-card/assets/65846344/943ee5af-a03e-415c-a90c-0bf4dd9701e1)# QA SCORE CARD (SALES)
+# QA SCORE CARD (SALES)
 
 
     QA SCORE CARD (SALES)
