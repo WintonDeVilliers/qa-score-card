@@ -1,4 +1,4 @@
-# QA SCORE CARD (SALES)
+![Screenshot 2024-04-26 at 06 46 15](https://github.com/WintonDeVilliers/qa-score-card/assets/65846344/943ee5af-a03e-415c-a90c-0bf4dd9701e1)# QA SCORE CARD (SALES)
 
 
     QA SCORE CARD (SALES)
@@ -52,5 +52,14 @@
 
     Total Score Calculation:
     - total_score = combined_points_for_each_section / 28 * 100
+
+
+    ###FORM VIEW
+
+![Screenshot 2024-04-26 at 06 46 15](https://github.com/WintonDeVilliers/qa-score-card/assets/65846344/94341591-2ab4-4a3d-87a2-5940f3970c0f)
+
+    ###DATA VIEW
+
+![Screenshot 2024-04-26 at 06 47 01](https://github.com/WintonDeVilliers/qa-score-card/assets/65846344/c51f03e6-5541-4750-927c-1736bb873779)
 
     
